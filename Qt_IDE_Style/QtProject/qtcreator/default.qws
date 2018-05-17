@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.4.1, 2018-04-16T18:13:11. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">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</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/frederichong/Projects/RobotVisionLib/robotvisionlib.creator</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/frederichong/Projects/RobotVisionLib/robotvisionlib.creator</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/vision/include/asusbot/vision/slam</value>
+    <value type="QString">slam</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/common/include/asusbot/common</value>
+    <value type="QString">common</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/ext/shared/DorianLibs/DLib/include/DUtils</value>
+    <value type="QString">DUtils</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/ext/shared</value>
+    <value type="QString">shared</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/vision/include/asusbot</value>
+    <value type="QString">asusbot</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/ext</value>
+    <value type="QString">ext</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/ext/shared/DorianLibs/DLib/include</value>
+    <value type="QString">include</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules</value>
+    <value type="QString">modules</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/vision/include</value>
+    <value type="QString">include</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/vision/include/asusbot/vision/slam/components</value>
+    <value type="QString">components</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/vision</value>
+    <value type="QString">vision</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/common/include/asusbot</value>
+    <value type="QString">asusbot</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/common</value>
+    <value type="QString">common</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib</value>
+    <value type="QString">robotvisionlib [develop]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/ext/shared/DorianLibs</value>
+    <value type="QString">DorianLibs</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/common/include</value>
+    <value type="QString">include</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/frederichong/Projects/RobotVisionLib/modules/vision/include/asusbot/vision</value>
+    <value type="QString">vision</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

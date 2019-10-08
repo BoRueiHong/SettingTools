@@ -1,0 +1,17 @@
+actboy168.lua-debug
+BazelBuild.vscode-bazel
+DevonDCarew.bazel-code
+go2sh.cmake-integration-vscode
+keyring.Lua
+kriegalex.vscode-cudacpp
+MaoSantaella.night-wolf
+ms-azuretools.vscode-docker
+ms-python.python
+ms-vscode.cpptools
+redhat.vscode-xml
+sdras.night-owl
+shd101wyy.markdown-preview-enhanced
+tht13.python
+twxs.cmake
+vector-of-bool.cmake-tools
+vscodevim.vim
